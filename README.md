@@ -102,7 +102,7 @@ Dual internal GND planes provide:
 
 ```
 ├── Schematics/          # EasyEDA schematic files and PDF exports
-├── PCB/                 # EasyEDA PCB layout files
+├── Gerber_Files/                 # EasyEDA PCB layout files
 ├── 3D_Renders/          # 3D renders of the board (top and bottom views)
 ├── BOM/                 # Bill of Materials
 └── README.md
@@ -110,9 +110,10 @@ Dual internal GND planes provide:
 
 ---
 
-## 3D Renders
+## 3D Render
 
-*(Add top and bottom 3D render images here)*
+<img width="687" height="849" alt="image" src="https://github.com/user-attachments/assets/15ac5dfd-dc89-4ed2-8b32-cdcbb2e49601" />
+
 
 ---
 
